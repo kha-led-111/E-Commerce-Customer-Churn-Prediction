@@ -45,6 +45,6 @@ An **Applied AI & Machine Learning Engineer** with a solid foundation in compute
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* 📧 **Email:** `your.email@example.com`
+* 💼 **LinkedIn:** (www.linkedin.com/in/khaled-gamal-ibrahim)
+* 📧 **Email:** `khaledgmal644@gmail.com`
 * 🌐 **Technical Report:** [Google Docs Report](https://docs.google.com/document/d/1N728VyVivp62P3JN8dGYX93MZ9m4PLxkzR4A9xxfK-Q/edit?usp=drive_web)
